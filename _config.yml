@@ -30,7 +30,7 @@ navbar-links:
   Home: ""
   Resources:
     - Coding: "DM_Project3_12_Rui_Miao.html"
-    - Graph: "Devices Engergy Consumption.html"
+    - Graph: "Devices Energy Consumption.html"
     - Getting started: "getstarted"
     - Other sites that use this template: "featured-users"
     - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
